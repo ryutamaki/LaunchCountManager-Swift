@@ -1,0 +1,20 @@
+{
+  "name": "LaunchCountManager",
+  "version": "0.1.0",
+  "summary": "Lightweight launch counter with NSUserDefault",
+  "description": "To know how many times and what versions user uses App.\nThis framework gives you wrapper for counting launch numbers for each versions.",
+  "homepage": "https://github.com/ryutamaki/LaunchCountManager-Swift",
+  "license": "MIT",
+  "authors": {
+    "ryutamaki": "ryu.mochi@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ryutamaki/LaunchCountManager-Swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "LaunchCountManager/**/*"
+}

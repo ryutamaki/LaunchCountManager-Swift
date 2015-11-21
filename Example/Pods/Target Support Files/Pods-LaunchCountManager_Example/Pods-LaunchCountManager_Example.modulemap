@@ -1,0 +1,6 @@
+framework module Pods_LaunchCountManager_Example {
+  umbrella header "Pods-LaunchCountManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module LaunchCountManager {
+  umbrella header "LaunchCountManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
